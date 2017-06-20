@@ -38,6 +38,8 @@ function increaseCount () {
 }
 ```
 
+## [Online Demo](https://cdn.rawgit.com/pepebecker/virtual-dom/master/example/index.html)
+
 ## Contributing
 
 If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/pepebecker/virtual-dom/issues).
