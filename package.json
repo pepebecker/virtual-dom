@@ -1,0 +1,30 @@
+{
+  "name": "virtual-dom",
+  "version": "0.0.1",
+  "description": "My own Virtual DOM implementation for understanding how it works.",
+  "keywords": [
+    "dom",
+    "vdom",
+    "virtual",
+    "virtul-dom"
+  ],
+  "homepage": "https://github.com/pepebecker/virtual-dom#readme",
+  "bugs": {
+    "url": "https://github.com/pepebecker/virtual-dom/issues"
+  },
+  "license": "MIT",
+  "author": "Pepe Becker <mail@pepebecker.com> (http://pepebecker.com)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pepebecker/virtual-dom.git"
+  },
+  "scripts": {
+    "build": "browserify index.js --standalone VirtualDOM > example/virtual-dom.js",
+    "watch": "watchify index.js --standalone VirtualDOM -o example/virtual-dom.js"
+  },
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "watchify": "^3.9.0"
+  }
+}

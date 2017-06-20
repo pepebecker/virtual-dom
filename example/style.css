@@ -1,0 +1,22 @@
+.node {
+	fill: #EEE;
+	stroke: black;
+	stroke-width: 4px;
+}
+
+.line {
+	stroke: black;
+	stroke-width: 6px;
+}
+
+.node:hover, .line:hover {
+	stroke: orange;
+}
+
+svg {
+	float: left;
+}
+
+.add-line-btn, .del-line-btn {
+	float: left;
+}
