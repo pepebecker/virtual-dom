@@ -16,7 +16,7 @@ npm install pepebecker/virtual-dom
 ```js
 const {h, createElement, update} = require('virtual-dom')
 
-const rootElement = document.querySelector('body')
+const rootElement = document.querySelector('#main')
 
 let count = 0
 
