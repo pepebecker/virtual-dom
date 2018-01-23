@@ -1,5 +1,7 @@
 # Virtual DOM
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pepebecker/virtual-dom.svg)](https://greenkeeper.io/)
+
 [![dependency status](https://img.shields.io/david/pepebecker/virtual-dom.svg)](https://david-dm.org/pepebecker/virtual-dom)
 [![dev dependency status](https://img.shields.io/david/dev/pepebecker/virtual-dom.svg)](https://david-dm.org/pepebecker/virtual-dom#info=devDependencies)
 [![MIT-licensed](https://img.shields.io/github/license/pepebecker/virtual-dom.svg)](https://opensource.org/licenses/MIT)
